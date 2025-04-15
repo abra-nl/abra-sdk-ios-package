@@ -1,10 +1,10 @@
-# Abra API Mac / iOS Package
+# Abra SDK iOS Package
 
-This is a wrapper around the Abra Restfull API. It enables you to work with a type hinted library when working with our API.
+This is the Abra SDK package, it enables testing for accessibility issues automatically.
 
 ## Useful links
 
-- [Abra SDK iOS]([https://docs.abra.ai/api-ios](https://docs.abra.ai/sdk-ios))
+- [Abra SDK iOS](https://docs.abra.ai/sdk-ios)
 
 ## License
 
