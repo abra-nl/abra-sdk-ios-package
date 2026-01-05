@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies that the binary framework needs
-        .package(url: "https://github.com/mac-cain13/R.swift.git", from: "7.0.0")
+        .package(url: "https://github.com/mac-cain13/R.swift.git", .upToNextMajor(from: "7.7.0")),
     ],
     targets: [
         // Binary target containing the framework
