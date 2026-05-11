@@ -22,7 +22,7 @@ let package = Package(
         // Binary target containing the framework
         .binaryTarget(
             name: "AbraSDKFramework",
-            path: "releases/1.3.1/AbraSDK-1.3.1.zip"
+            path: "releases/1.4.0/AbraSDK-1.4.0.zip"
         ),
         // Wrapper target to handle binary target dependencies
         .target(
