@@ -22,8 +22,8 @@ let package = Package(
         // Binary target containing the framework
         .binaryTarget(
             name: "AbraSDKFramework",
-            url: "https://downloads.abra.ai/abra-sdk-ios/production/AbraSDK-1.3.1.zip",
-            checksum: "3830a7baf49465d4531be4b4f24d272b45ace8fda7f93e8045310ecf1e6b7023"
+            url: "https://downloads.abra.ai/abra-sdk-ios/production/AbraSDK-1.4.0.zip",
+            checksum: "446307c5fa3076c19431451104a8138a6c02fd5d2f0b5c7098d6fc03f537a153"
         ),
         // Wrapper target to handle binary target dependencies
         .target(
