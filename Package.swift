@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AbraSDKFramework",
-            path: "releases/1.5.2/AbraSDK-1.5.2.zip"
+            path: "releases/1.6.0/AbraSDK-1.6.0.zip"
         )
     ],
     swiftLanguageVersions: [.v5]
