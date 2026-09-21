@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AbraSDKFramework",
-            url: "https://downloads.abra.ai/abra-sdk-ios/production/AbraSDK-1.6.0.zip",
-            checksum: "56b9121eb77a49af06aa0adbda4e533edbce5163deba525ec4c0a0ce97e40e2d"
+            url: "https://downloads.abra.ai/abra-sdk-ios/production/AbraSDK-1.6.1.zip",
+            checksum: "412406f23a674ce2abc4e23879da8b7a5d51793f2c0b2099c9223971cf16546c"
         )
     ],
     swiftLanguageVersions: [.v5]
